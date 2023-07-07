@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\bin\Debug\netcoreapp3.1\HarfNotunuBulma.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\bin\Debug\netcoreapp3.1\HarfNotunuBulma.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\bin\Debug\netcoreapp3.1\HarfNotunuBulma.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\bin\Debug\netcoreapp3.1\HarfNotunuBulma.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\bin\Debug\netcoreapp3.1\HarfNotunuBulma.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\bin\Debug\netcoreapp3.1\HarfNotunuBulma.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\obj\Debug\netcoreapp3.1\HarfNotunuBulma.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\obj\Debug\netcoreapp3.1\HarfNotunuBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\obj\Debug\netcoreapp3.1\HarfNotunuBulma.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\obj\Debug\netcoreapp3.1\HarfNotunuBulma.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\obj\Debug\netcoreapp3.1\HarfNotunuBulma.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\obj\Debug\netcoreapp3.1\HarfNotunuBulma.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\obj\Debug\netcoreapp3.1\HarfNotunuBulma.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HarfNotunuBulma\HarfNotunuBulma\obj\Debug\netcoreapp3.1\HarfNotunuBulma.genruntimeconfig.cache
